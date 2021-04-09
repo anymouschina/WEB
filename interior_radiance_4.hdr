@@ -1,0 +1,7 @@
+#?RADIANCE
+# Output from cmft.
+FORMAT=32-bit_rle_rgbe
+EXPOSURE=1
+
+-Y 16 +X 32
+‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[‘~[êÈŽ€„rO•‚X¨”bÐ»y‰|O‚¤•^‚µ¥h‚½¬m‚»©l‚®f‚—†Y‚‚pN‚„oO‚iM‚ëÁÍ¨€«Œn†mZÂ Œ€¤‰{€ž„w€™€r€•{n€xj€tf€‰qc€‡o_€˜~g€³–s€Î®€€êÈŽ€±Šb€Åœk€†pIèÍ€»«h‚ŒNƒÂµlƒÛÌzƒæ×ƒéØƒƒÑ¾vƒ±œeƒšXƒŒpQƒ…eMƒê²‰‚¹n‚bO‚È˜|˜t`ä±˜€¬Š}€Žwq€‰sl€‚ng€üÔÄi^€ƒj[€‡kX€mV€œyZ€±Šb€È‘^€à¡d€‰i@Ä£cŒT‚‹MƒùéŠƒ­¢`„µªe„­¢a„ùäŒƒ¸ŸhƒÅoƒâ«ƒ_H„ñ²ˆƒ®€cƒé©ƒ‚‘gO‚¹~`‘dMó¬Œ€¼€š|s€lg€ðÊ½ëÃ¯ôÄ§‚fR€“oR€¦zU€È‘^€Ša2‚Ä‰C‚Ñ’G‚ÃO·”W«˜Z‚«™Z‚îÚ‚ùåˆ‚åÒ}‚”‡RƒÙµz‚„eJƒÓœvƒ§}cƒ |jƒ…okƒåÁÄ‚¬w`‚‰W?‚ñšrÅ†n›…Ã¢¥€íÅ¹Æ¦™Ë¨—Õ«ŽðºŽ•oL€“i=Ša2‚™m8‚æ£O‚ƒ\,ƒ®{=‚â¥\€Ë™V€ãµh€†pBŽwF‰rEâ¶s€¹d€¢x\ÓŸýÒÅ—¡‚^g„ƒfs—ƒ^d€ƒ™Ž¥‚Œ„¡‚y}£‚¢ªÞ¼ºá€Ö¹³Ä¦”¯’{œe¥~Zê³€‘j?™m8‚ÑšVžs;‚´‚A‚ß¢Wƒ`:€ä¢[æŸXé Zñ§`ó«g÷³u‡eJ€°‰o€¸–†€y{‘`už‚Up ƒf‡Áƒ^y¬ƒ† Ú‚Ÿå‚xšâ‚NbŽ‚Vc†Ë¼ÃÖº«Ä¥‰•z]Ô©€~œ€gÅ˜e€ÑšV´”i€üÈ€ˆkB°Žb€‡gK•g=º}CÕMÆ‡K­yH˜oK®ˆlvj€{x€_j‡Sm›‚Pp¤ƒb‰ÈƒZ{²ƒyÜ‚z¤ó‚t¡ó‚Jd–‚OcŒÈÆÜâÏÌÏ´ž“y_˜€j~Ñ¾®~Ê°”´”i€Â²ŸëÓ³îÖ±½¨”ÏŸ|~øªc~¤m9»|Bžl=÷®m~¿‘l~êÁ©~éÇºñÕÑ¯Þ€†°ý@Z…ƒPo¤ƒJd’ƒg„¸‚i‹Í‚dˆÍ‚AW‚”µþ€ÏÑïæØßÔ»°œ‚p—‚r~³¨¢~Œ„Â²Ÿ›‰´¤›À¬¡®—ŒÍšt~Ú”T~…X-’b4ù«e~Æ_~¥€d~Ì§’~·š†Æ«”}„™€c}­Zz´‚n–Ý‚gˆÄ‚”·ýG[ƒ‚F\ˆ‚gƒ½‘¤Ù€~y‡€‡z~€nj€Ñ®æÀ¦~Ê´¦~ýéá~›‰{q¤Œ‚µ™«Œ}à¡n~È…H~ÎˆD~ÍŠJ~¯zJ~‘iH~bL~•wb~ƒiJ¡‚SÆº¥‰š·€j†¹} áp‹¿§¾ö€—¯é€Td‰ž±ê€’°€“ˆ’€šˆŠ€—€{€†od€°Žv€jYûÖ¿~{q÷Á™~‡iW•t`\>÷¨c~Ý‘K~¬p6~_2~ç ^}»†X}›mD}ÅŠM}d-~Î•7~~A»¨Üßërw‰€ƒn^è¾—~ëÃ˜~ˆv`åÜí€v{€Œ}~€‘}z€å» Ò¦…±‰eoQò»~÷Á™~ªs7~®u;~É†H~â—R~ê™O~æ•J~×‹E~¿|?~£k9~‘`4~’`3~žh5~»};~Ö‘C~ð¦P~þ³^~ú³k~ì«m~Õœf~Ã‘]~¿Y~Ä—]~Ð£f~ç·z~÷Ã†~ƒfGƒeDö¸t~ÚW~ÆŒI~¦q2~ªs7~¢k.~­q3~¼z9~Î†@~ÞF~ê—J~óM~îšM~ç–L~å•L~ã”L~ä•M~ì›Q~ú¥X~„X0€V1÷ªf~í¥g~Ú™_~ÇT~µJ~§xA~Ÿr;~¡t;~ r7~o2~£s5~¥s5~ n0~–d)~—d(~¢k.~±t5~¹y9~Ã<~Í…@~Ö‹D~ÝF~â“I~ç–K~ë™M~ïœO~ôŸR~ú£T~þ¦W~ø£V~ñ V~êœU~â—T~Ù’R~ÏŒO~Å…K~¼€F~µ{B~¯w>~©s;~¤p7~ l4~›h0~–d-~šf-~¡j0~©o2~±t5~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~Ê†D~
